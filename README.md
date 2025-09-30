@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil do Alexandre Lemos 😁
 
  <div>
    <a href="https://github.com/alexandrlemos
@@ -17,7 +17,6 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
   
